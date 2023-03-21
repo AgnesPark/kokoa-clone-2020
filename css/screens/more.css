@@ -1,0 +1,12 @@
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.user-component__subtitle .fa-exclamation {
+  margin-left: 5px;
+  padding: 4px 2px 3px 7px;
+  width: 10px;
+  border: 2px solid tomato;
+  border-radius: 50%;
+  color: tomato;
+}
